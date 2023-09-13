@@ -46,6 +46,10 @@ npm install @knighttower/js-teleport
 yarn add @knighttower/js-teleport
 ```  
 
+To use directly in the DOM via script tag  
+``https://cdn.jsdelivr.net/npm/@knighttower/js-teleport@latest/dist/JsTeleport.min.js``  
+
+
 ---
 
 ## Usage
