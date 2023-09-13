@@ -1,0 +1,48 @@
+{
+    "name": "@knighttower/js-teleport",
+    "version": "1.0.0",
+    "main": "src/JsTeleport.js",
+    "module": "src/JsTeleport.js",
+    "unpkg": "dist/JsTeleport.js",
+    "jsdelivr": "dist/JsTeleport.js",
+    "files": [
+        "dist",
+        "src"
+    ],
+    "license": "MIT",
+    "description": "Teleport an element to another place in the DOM before, inside or after a target. This class is part of a larger project and can be imported from the @knighttower/adaptive package.",
+    "homepage": "https://github.com/knighttower/JsTeleport",
+    "author": "knighttower (https://github.com/knighttower)",
+    "keywords": [
+        "Utility",
+        "Vue",
+        "library",
+        "plugin",
+        "JsTeleport",
+        "Vue 2",
+        "Vue 3",
+        "react",
+        "javascript",
+        "Adaptive",
+        "DOM",
+        "functions",
+        "helper",
+        "knighttower",
+        "teleport"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/knighttower/JsTeleport.git"
+    },
+    "scripts": {
+        "dev": "mix"
+    },
+    "devDependencies": {
+        "laravel-mix": "^6.0.49"
+    },
+    "dependencies": {
+        "@knighttower/element-helper": "^1.0.9",
+        "@knighttower/js-dom-observer": "^1.0.5",
+        "@knighttower/js-power-helper-functions": "^1.0.2"
+    }
+}
