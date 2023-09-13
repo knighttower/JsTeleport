@@ -1,13 +1,6 @@
 
 # Teleport JavaScript Library Documentation
 
-## Author
-
-Knighttower
-
-## License
-
-MIT License
 
 ## Github
 
@@ -17,6 +10,8 @@ MIT License
 
 The Teleport class enables you to move a DOM element to another location in the DOM tree, either before, inside, or after a target element. The class provides various methods for this functionality and also supports adaptive IDs for elements.  
 For working examples checkout the "examples" folder in [https://github.com/knighttower/adaptive.js](https://github.com/knighttower/adaptive.js)  
+
+**---> Note: this library also offers direct integration with VUE and REACT via Adaptive.js [https://github.com/knighttower/adaptive.js](https://github.com/knighttower/adaptive.js) as "directive" or "component", you're welcome! ;)**  
 
 ```javascript
 /**

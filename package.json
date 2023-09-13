@@ -1,6 +1,6 @@
 {
     "name": "@knighttower/js-teleport",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "src/JsTeleport.js",
     "module": "src/JsTeleport.js",
     "unpkg": "dist/JsTeleport.js",
